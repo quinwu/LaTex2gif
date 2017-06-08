@@ -3,7 +3,7 @@
 
 用Markdown + LaTex 写一些带有数学公式的文档的时候，会面临着Github or Gitlab无法渲染LaTex公式的问题，使得漂亮的LaTex公式不能显示在页面上。
 
-当你使用Chrome浏览器的时候，可以选择[Github Mathjax](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima)插件来解决。
+当你使用Chrome浏览器的时候，可以选择[GitHub with MathJax](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima)插件来解决。
 
 除此之外，还可以选择将LaTex公式转化给图片格式插入到Markdown文件中。通过使用如下的LaTex图片API来解决
 
