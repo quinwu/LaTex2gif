@@ -14,7 +14,7 @@ w = open(writeFile,"w")
 
 text = r.read()
 
-regex = r"(\$\$*)([A-Za-z0-9\\_+\.\-*\/=<>\^{}\(\)|\s]*)(\$\$*)"
+regex = r"(\$\$*)([A-Za-z0-9\\_+\.\-*,;&\/=<>\^{}\(\)|\s]*)(\$\$*)"
 split_regex = r"\$\$*"
 str_regex = r"[A-Za-z0-9\\_+\.\-*\/=<>\^{}\(\)|\s]*"
 pattern = re.compile(regex)
