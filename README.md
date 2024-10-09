@@ -19,6 +19,3 @@
 - 执行命令 `python LaTex2gif.py`
 - 当前目录下自动生成的README.md文件即为所生成的文件。
 
-### BUG
-
-如果您在使用的过程中发现了其他的Bug或者有其他更好的意见建议可以选择提交Issues 或者选择与我联系 [wukuan1995@gmail.com](mailto:wukuan1995@gmail.com)
